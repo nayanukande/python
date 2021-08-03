@@ -1,6 +1,2 @@
-a = int(input())
-b = int(input())
-print(a//b)
-print(a/b)
-print(a+b)
-print("hey guys, I'm Nayan and this is my first use of git branch")
+print ("Nayan Ukande")
+print ("sec= C, Roll No: 54")
