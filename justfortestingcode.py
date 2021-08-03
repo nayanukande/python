@@ -1,4 +1,2 @@
-a = int(input())
-b = int(input())
-print(a//b)
-print(a/b)
+print ("Name: Nayan Nitin Ukande")
+print ("Sec: C ; Roll no: 54")
